@@ -1,0 +1,37 @@
+{
+  "id": "2239627",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18516620",
+      "name": "爱宠02",
+      "font_class": "aichong02",
+      "unicode": "ef67",
+      "unicode_decimal": 61287
+    },
+    {
+      "icon_id": "18516621",
+      "name": "爱宠03",
+      "font_class": "aichong03",
+      "unicode": "ef68",
+      "unicode_decimal": 61288
+    },
+    {
+      "icon_id": "18516622",
+      "name": "爱宠04",
+      "font_class": "aichong04",
+      "unicode": "ef69",
+      "unicode_decimal": 61289
+    },
+    {
+      "icon_id": "18516619",
+      "name": "爱宠01",
+      "font_class": "aichong01",
+      "unicode": "ef66",
+      "unicode_decimal": 61286
+    }
+  ]
+}
